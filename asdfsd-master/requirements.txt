@@ -1,0 +1,6 @@
+neat
+numpy
+pandas
+plotly
+matplotlib
+neat-python
